@@ -1,6 +1,9 @@
-# toko_online
+# Toko Online
 
-A new Flutter project.
+Toko Online is a simple CRUD app for online shopping, build with Flutter and Firebase
+
+# Project
+![img](https://github.com/ianahmfac/images/blob/master/Banner%20Toko%20Online.png?raw=true)
 
 ## Getting Started
 
